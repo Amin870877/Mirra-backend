@@ -12,7 +12,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-BOT_TOKEN = "8937003688:AAFW1J-bnjoRpi1RlyZ5HDp2MRw76vcHLBU"
+BOT_TOKEN = "BOT_TOKEN"
 CHANNEL_ID = "@dinamit"
 
 @app.get("/check-join")
